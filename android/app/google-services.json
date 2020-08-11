@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757848326173",
+    "firebase_url": "https://sports-meet-3c20e.firebaseio.com",
+    "project_id": "sports-meet-3c20e",
+    "storage_bucket": "sports-meet-3c20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757848326173:android:0e02ed3c7c96eae6f386f4",
+        "android_client_info": {
+          "package_name": "com.example.sports_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757848326173-tgsjoapd2s3m6lr73qpbus8if6bs4hbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYBO4M_o6hOMZLgL3jNmC1gRJKZVQQ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757848326173-tgsjoapd2s3m6lr73qpbus8if6bs4hbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
