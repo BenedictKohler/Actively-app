@@ -1,16 +1,11 @@
-# sports_meet
+# Actively
 
-A new Flutter application.
+This Flutter app connects nearby users together based on their sporting interests. Users can then chat and meet up with one another. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone repository
 
-A few resources to get you started if this is your first Flutter project:
+Install dependencies needed in pubspecs.yaml
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run on a phone or virtually with haxm
