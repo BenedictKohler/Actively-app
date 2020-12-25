@@ -37,6 +37,7 @@ class _PeopleScreenState extends State<PeopleScreen> {
     getUserInfo();
   }
 
+  // Geo hashing to see how far 2 locations are apart
   int compareDist(place1, place2) {
     double divisor = 180 / (22 / 7);
 

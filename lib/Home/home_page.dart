@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
                 style: TextStyle(color: Colors.white, fontSize: 30),
               ),
               radius: 60,
-              backgroundColor: Colors.blue,
+              backgroundColor: Colors.lightBlue,
             ),
           ),
         ],
@@ -74,9 +74,7 @@ class _HomePageState extends State<HomePage> {
         children: <Widget>[
           optionButton(ChatScreen(), "Chats", null),
           optionButton(PeopleScreen(), "People", null),
-          optionButton(HomePage(), "Not ready", null),
           optionButton(FavoriteScreen(), "Favorites", null),
-          optionButton(HomePage(), "Not Ready", null),
           optionButton(UserProfile(), "My Profile", null),
         ],
       ),
